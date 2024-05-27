@@ -34,7 +34,7 @@
   },
   "homepage": "https://github.com/giridharangm/react-media-recorder#readme",
   "devDependencies": {
-    "@types/react": "^18.2.65",
+    "@types/react": "^18.3.3",
     "jsmin": "^1.0.1",
     "typescript": "^5.4.2"
   },
